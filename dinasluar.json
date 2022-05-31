@@ -20,11 +20,11 @@
       "nip": "196008241987032002",
       "id_kegiatan": null,
       "id_pegawai": null,
-      "tanggal_penugasan_mulai": null,
-      "tanggal_penugasan_selesai": null,
+      "tanggal_penugasan_mulai": '2022-05-31',
+      "tanggal_penugasan_selesai": 2022-05-31,
       "alamat": null,
       "lokasi": null,
-      "nama_kegiatan": null
+      "nama_kegiatan": 'Diklat Latihan SIputri'
     },
     {
       "nama": "Sutarman",

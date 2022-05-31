@@ -1,26 +1,53 @@
 {
-    "1": {
-        "kode": "18041976",
-        "nama_kegiatan": "Pengembangan SIPUTRI",
-        "tanggal": "2022-05-31",
-        "lokasi": "LPPKSPS",
-        "jumlah_hari": "1",
-        "status": "Internal"        
+  "status": true,
+  "message": "Success",
+  "data": [
+    {
+      "nama": "Nunuk Suryani",
+      "nik": "3313094811660003",
+      "nip": "196611081990032001",
+      "id_kegiatan": null,
+      "id_pegawai": null,
+      "tanggal_penugasan_mulai": null,
+      "tanggal_penugasan_selesai": null,
+      "alamat": null,
+      "lokasi": null,
+      "nama_kegiatan": null
     },
-    "2": {
-        "kode": "197811262010121003",
-        "nama_kegiatan": "Pengembangan SIPUTRI",
-        "tanggal": "2022-05-31",
-        "lokasi": "LPPKSPS",
-        "jumlah_hari": "1",
-        "status": "Internal"    
+    {
+      "nama": "Yusnaini Agustina",
+      "nik": "3106076408600002",
+      "nip": "196008241987032002",
+      "id_kegiatan": null,
+      "id_pegawai": null,
+      "tanggal_penugasan_mulai": null,
+      "tanggal_penugasan_selesai": null,
+      "alamat": null,
+      "lokasi": null,
+      "nama_kegiatan": null
     },
-    "3": {
-        "kode": "199507172019021003",
-        "nama_kegiatan": "Pengembangan SIPUTRI",
-        "tanggal": "2022-05-31",
-        "lokasi": "LPPKSPS",
-        "jumlah_hari": "1",
-        "status": "Internal"    
-    },   
+    {
+      "nama": "Sutarman",
+      "nik": "3372032212610001",
+      "nip": "196112221987031010",
+      "id_kegiatan": null,
+      "id_pegawai": null,
+      "tanggal_penugasan_mulai": null,
+      "tanggal_penugasan_selesai": null,
+      "alamat": null,
+      "lokasi": null,
+      "nama_kegiatan": null
+    },
+    {
+      "nama": "Wiyono",
+      "nik": "3276111503660001",
+      "nip": "196603151991031002",
+      "id_kegiatan": null,
+      "id_pegawai": null,
+      "tanggal_penugasan_mulai": null,
+      "tanggal_penugasan_selesai": null,
+      "alamat": null,
+      "lokasi": null,
+      "nama_kegiatan": null
+    },
 }

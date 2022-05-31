@@ -21,7 +21,7 @@
       "id_kegiatan": null,
       "id_pegawai": null,
       "tanggal_penugasan_mulai": '2022-05-31',
-      "tanggal_penugasan_selesai": 2022-05-31,
+      "tanggal_penugasan_selesai": '2022-05-31',
       "alamat": null,
       "lokasi": null,
       "nama_kegiatan": 'Diklat Latihan SIputri'
@@ -32,11 +32,11 @@
       "nip": "196112221987031010",
       "id_kegiatan": null,
       "id_pegawai": null,
-      "tanggal_penugasan_mulai": null,
-      "tanggal_penugasan_selesai": null,
+      "tanggal_penugasan_mulai": '2022-05-31',
+      "tanggal_penugasan_selesai": '2022-05-31',
       "alamat": null,
       "lokasi": null,
-      "nama_kegiatan": null
+      "nama_kegiatan": 'Diklat Latihan SIputri'
     },
     {
       "nama": "Wiyono",
@@ -44,11 +44,11 @@
       "nip": "196603151991031002",
       "id_kegiatan": null,
       "id_pegawai": null,
-      "tanggal_penugasan_mulai": null,
-      "tanggal_penugasan_selesai": null,
+      "tanggal_penugasan_mulai": '2022-05-31',
+      "tanggal_penugasan_selesai": '2022-05-31',
       "alamat": null,
       "lokasi": null,
-      "nama_kegiatan": null
+      "nama_kegiatan": 'Diklat Latihan SIputri'
     }
     ]
 }
